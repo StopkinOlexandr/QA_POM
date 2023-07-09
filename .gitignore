@@ -1,0 +1,14 @@
+
+.idea
+out/
+
+*.bat
+
+*.xml/
+/testlogs
+
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+*.log
+*.png
